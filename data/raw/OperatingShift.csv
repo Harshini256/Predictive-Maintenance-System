@@ -1,0 +1,10 @@
+shift_id,plant_id,shift_name,start_time,end_time
+SH01,P01,Morning,06:00,14:00
+SH02,P01,Evening,14:00,22:00
+SH03,P01,Night,22:00,06:00
+SH04,P02,Morning,06:00,14:00
+SH05,P02,Evening,14:00,22:00
+SH06,P02,Night,22:00,06:00
+SH07,P03,Morning,06:00,14:00
+SH08,P03,Evening,14:00,22:00
+SH09,P03,Night,22:00,06:00

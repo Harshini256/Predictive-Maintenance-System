@@ -1,0 +1,16 @@
+part_id,part_name,part_type,quantity_in_stock,unit_cost
+PT001,Bearing,Mechanical,10,2552.09
+PT002,Motor Belt,Mechanical,17,3221.91
+PT003,Oil Filter,Filter,16,1648.13
+PT004,Cooling Fan,Electrical,52,2123.96
+PT005,Gear,Mechanical,91,930.59
+PT006,Valve,Mechanical,85,4584.22
+PT007,Pump Seal,Mechanical,46,3966.99
+PT008,Air Filter,Filter,67,3093.92
+PT009,Fuse,Electrical,87,3119.75
+PT010,Sensor Cable,Electrical,94,2106.82
+PT011,Shaft,Mechanical,49,927.27
+PT012,Coupling,Mechanical,42,2455.13
+PT013,Lubricant,Consumable,95,692.87
+PT014,Gasket,Mechanical,30,436.15
+PT015,Relay,Electrical,51,4533.07

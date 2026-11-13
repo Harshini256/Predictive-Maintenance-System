@@ -1,0 +1,13 @@
+line_id,plant_id,line_name,production_type,status
+L01,P01,Production Line 1,Packaging,ACTIVE
+L02,P02,Production Line 2,Assembly,ACTIVE
+L03,P03,Production Line 3,Assembly,ACTIVE
+L04,P01,Production Line 4,Assembly,INACTIVE
+L05,P02,Production Line 5,Processing,ACTIVE
+L06,P03,Production Line 6,Assembly,ACTIVE
+L07,P01,Production Line 7,Assembly,ACTIVE
+L08,P02,Production Line 8,Processing,INACTIVE
+L09,P03,Production Line 9,Processing,INACTIVE
+L10,P01,Production Line 10,Assembly,INACTIVE
+L11,P02,Production Line 11,Assembly,ACTIVE
+L12,P03,Production Line 12,Processing,ACTIVE

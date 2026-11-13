@@ -1,0 +1,18 @@
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+dashboard/app_backup.py

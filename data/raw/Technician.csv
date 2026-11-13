@@ -1,0 +1,21 @@
+technician_id,technician_name,specialization,experience_years
+T001,Technician 1,Mechanical,1
+T002,Technician 2,Electrical,6
+T003,Technician 3,Electrical,12
+T004,Technician 4,Mechanical,11
+T005,Technician 5,Mechanical,6
+T006,Technician 6,Electrical,11
+T007,Technician 7,Mechanical,12
+T008,Technician 8,Electrical,1
+T009,Technician 9,Electrical,10
+T010,Technician 10,Mechanical,15
+T011,Technician 11,Electrical,2
+T012,Technician 12,Mechanical,9
+T013,Technician 13,Electrical,4
+T014,Technician 14,Mechanical,2
+T015,Technician 15,Electrical,6
+T016,Technician 16,Automation,3
+T017,Technician 17,Electrical,12
+T018,Technician 18,Electrical,4
+T019,Technician 19,Mechanical,15
+T020,Technician 20,Mechanical,15
